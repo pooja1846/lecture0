@@ -1,0 +1,26 @@
+th {
+	background-color: lightgray;
+}
+.row > div{
+background-color: lightgray;
+}
+th, td {
+	border: 1px solid black;
+}
+.center {
+	border: 2px solid black;
+}
+p ul li {
+	font-size: 17px;
+}
+.Thank {
+	font-size: 18px;
+	font-weight: bold;
+	border: 1px solid black;
+	padding: 20px;
+	margin: 20px;
+}
+.Thank {
+	text-align: center;
+	background-color: lightblue;
+}
